@@ -12,7 +12,7 @@ gen5_noah,Noah,male,gen5_lamech,,1056,2006,950,Genesis 5,Genesis 5:32,KJV,yes,Fa
 gen10_shem,Shem,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:21,KJV,yes,Firstborn son of Noah
 gen10_ham,Ham,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:6,KJV,no,
 gen10_japheth,Japheth,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:21,KJV,no,
-gen11_terah,Terah,male,gen11_nahor,,1908,2083,175,Genesis 11,Genesis 11:24,KJV,yes,Father of Abram, Nahor, Haran
+gen11_terah,Terah,male,gen11_nahor,,1908,2083,175,Genesis 11,Genesis 11:24,KJV,yes,Father of Abram. Nahor. Haran.
 gen11_haran,Haran,male,gen11_terah,,1910,1985,75,Genesis 11,Genesis 11:26,KJV,no,Default lifespan assigned (75 years)
 gen11_nahor2,Nahor,male,gen11_terah,,1912,1987,75,Genesis 11,Genesis 11:24,KJV,no,Default lifespan assigned (75 years)
 gen11_milcah,Female,gen11_nahor2,,1920,1995,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
