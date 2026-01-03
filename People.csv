@@ -15,5 +15,5 @@ gen10_japheth,Japheth,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:21,KJV
 gen11_terah,Terah,male,gen11_nahor,,1908,2083,175,Genesis 11,Genesis 11:24,KJV,yes,Father of Abram. Nahor. Haran.
 gen11_haran,Haran,male,gen11_terah,,1910,1985,75,Genesis 11,Genesis 11:26,KJV,no,Default lifespan assigned (75 years)
 gen11_nahor,Nahor,male,gen11_terah,,1912,1987,75,Genesis 11,Genesis 11:24,KJV,no,Default lifespan assigned (75 years)
-gen11_milcah,Milcah,Female,gen11_nahor,,1920,1995,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
-gen11_iskah,Iscah,Female,gen11_terah,,1925,2000,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
+gen11_milcah,Milcah,female,gen11_nahor,,1920,1995,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
+gen11_iskah,Iscah,female,gen11_terah,,1925,2000,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
