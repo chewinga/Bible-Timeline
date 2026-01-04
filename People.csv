@@ -1,6 +1,6 @@
 person_id,generation,name,gender,father_id,mother_id,birth_year,death_year,lifespan,passage,verse_range,source_translation,mainline,notes
 gen5_adam,0,Adam,male,,,0,930,930,Genesis 5,Genesis 5:1–5,KJV,yes,First man
-gen5_eve,0,Eve,female,,,0,75,75,Genesis 5,,,yes,First woman; Default lifespan assigned (75 years)
+gen5_eve,0,Eve,female,,,0,,,Genesis 5,,,yes,First woman;
 gen5_seth,1,Seth,male,gen5_adam,gen5_eve,130,1042,912,Genesis 5,Genesis 5:6–8,KJV,yes,
 gen5_enos,2,Enos,male,gen5_seth,,235,1140,905,Genesis 5,Genesis 5:9–11,KJV,yes,
 gen5_cainan,3,Cainan,male,gen5_enos,,325,1235,910,Genesis 5,Genesis 5:12–14,KJV,yes,
@@ -14,7 +14,7 @@ gen10_shem,10,Shem,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:21,KJV,ye
 gen10_ham,10,Ham,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:6,KJV,no,
 gen10_japheth,10,Japheth,male,gen5_noah,,1558,2158,600,Genesis 10,Genesis 10:21,KJV,no,
 gen11_terah,11,Terah,male,gen11_nahor,,1908,2083,175,Genesis 11,Genesis 11:24,KJV,yes,Father of Abram. Nahor. Haran.
-gen11_haran,,Haran,male,gen11_terah,,1910,1985,75,Genesis 11,Genesis 11:26,KJV,no,Default lifespan assigned (75 years)
-gen11_nahor,,Nahor,male,gen11_terah,,1912,1987,75,Genesis 11,Genesis 11:24,KJV,no,Default lifespan assigned (75 years)
-gen11_milcah,,Milcah,female,gen11_nahor,,1920,1995,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
-gen11_iskah,,Iscah,female,gen11_terah,,1925,2000,75,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
+gen11_haran,,Haran,male,gen11_terah,,1910,,,Genesis 11,Genesis 11:26,KJV,no,Default lifespan assigned (75 years)
+gen11_nahor,,Nahor,male,gen11_terah,,1912,,,Genesis 11,Genesis 11:24,KJV,no,Default lifespan assigned (75 years)
+gen11_milcah,,Milcah,female,gen11_nahor,,1920,,,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
+gen11_iskah,,Iscah,female,gen11_terah,,1925,,,Genesis 11,Genesis 11:29,KJV,no,Default lifespan assigned (75 years)
