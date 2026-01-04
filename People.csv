@@ -1,6 +1,6 @@
 person_id,generation,name,gender,father_id,mother_id,birth_year,death_year,lifespan,passage,verse_range,source_translation,mainline,notes
 gen5_adam,0,Adam,male,,,0,930,930,Genesis 5,Genesis 5:1–5,KJV,yes,First man
-gen5_eve,0,Eve,female,,,0,75,75,Genesis 5,,,yes,First woman
+gen5_eve,0,Eve,female,,,0,75,75,Genesis 5,,,yes,First woman; Default lifespan assigned (75 years)
 gen5_seth,1,Seth,male,gen5_adam,gen5_eve,130,1042,912,Genesis 5,Genesis 5:6–8,KJV,yes,
 gen5_enos,2,Enos,male,gen5_seth,,235,1140,905,Genesis 5,Genesis 5:9–11,KJV,yes,
 gen5_cainan,3,Cainan,male,gen5_enos,,325,1235,910,Genesis 5,Genesis 5:12–14,KJV,yes,
