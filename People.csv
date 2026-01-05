@@ -1,6 +1,6 @@
 person_id,entity_type,generation,name,gender,father_id,father_name,mother_id,mother_name,birth_year,birth_year_type,death_year,lifespan,lineage_root,passage,verse_range,scripture_text,source_translation,mainline,notes
-adam,person,0,Adam,male,,,,,0,explicit,930,930,Adam,Genesis 5,1–5,"And Adam lived an hundred and thirty years, and begat a son...",KJV,yes,Creation anchor
-eve,person,0,Eve,female,,,adam,Adam,0,estimated,,,"Adam",Genesis 3,20,"And Adam called his wife's name Eve...",KJV,yes,Birth year estimated as contemporaneous with Adam
+adam,person,0,Adam,male,creation,Creation,,,0,explicit,930,930,Adam,Genesis 5,1–5,"And Adam lived an hundred and thirty years, and begat a son...",KJV,yes,Creation anchor
+eve,person,0,Eve,female,creation,Creation,adam,Adam,0,estimated,,,"Adam",Genesis 3,20,"And Adam called his wife's name Eve...",KJV,yes,Birth year estimated as contemporaneous with Adam
 cain,person,1,Cain,male,adam,Adam,eve,Eve,130,deduced,,,"Cain",Genesis 4,1,"And Adam knew Eve his wife; and she conceived, and bare Cain...",KJV,no,
 cains_wife,person,1,Cain's Wife,female,,,,,130,estimated,,,"Cain",Genesis 4,17,"And Cain knew his wife; and she conceived...",KJV,no,Unnamed wife; birth year estimated
 enoch_cain,person,2,Enoch,male,cain,Cain,cains_wife,Cain's Wife,160,estimated,,,"Cain",Genesis 4,17,"And Cain knew his wife; and she conceived and bare Enoch...",KJV,no,
