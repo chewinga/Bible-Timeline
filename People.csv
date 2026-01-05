@@ -13,7 +13,7 @@ enoch,person,6,Enoch,male,jared,Jared,,,"622",deduced,987,365,Seth,Genesis 5,18,
 methuselah,person,7,Methuselah,male,enoch,Enoch,,,"687",deduced,1656,969,Seth,Genesis 5,21,,KJV,yes,
 lamech_seth,person,8,Lamech,male,methuselah,Methuselah,,,"874",deduced,1651,777,Seth,Genesis 5,25,,KJV,yes,
 noah,person,9,Noah,male,lamech_seth,Lamech,,,"1056",deduced,2006,950,Seth,Genesis 5,28,,KJV,yes,
-naamah,person,9,Naamah,female,,,,noah,Noah,1056,estimated,,,"Seth",Genesis 4,22,"And the sister of Tubalcain was Naamah.",KJV,no,Identity debated; included for completeness
+naamah,person,9,Naamah,female,,,noah,Noah,1056,estimated,,,"Seth",Genesis 4,22,"And the sister of Tubalcain was Naamah.",KJV,no,Identity debated; included for completeness
 shem,person,10,Shem,male,noah,Noah,,,"1558",deduced,2158,600,Shem,Genesis 11,10,,KJV,yes,
 ham,person,10,Ham,male,noah,Noah,,,,estimated,,,"Ham",Genesis 5–10,,KJV,no,Birth year estimated relative to Shem
 japheth,person,10,Japheth,male,noah,Noah,,,,estimated,,,"Japheth",Genesis 5–10,,KJV,no,Birth year estimated relative to Shem
