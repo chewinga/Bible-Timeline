@@ -17,11 +17,11 @@ naamah,person,9,Naamah,female,noah,Noah,,,1056,estimated,,,"Seth",Genesis 4,22,"
 shem,person,10,Shem,male,noah,Noah,,,1558,deduced,2158,600,Shem,Genesis 11,10,,KJV,yes,
 ham,person,10,Ham,male,noah,Noah,,,,estimated,,,"Ham",Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
 japheth,person,10,Japheth,male,noah,Noah,,,,estimated,,,"Japheth",Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
-enos_wife,person,2,Enos's Wife,female,,,,235,estimated,,,,Seth,Genesis 5,6,,KJV,no,
-kenan_wife,person,3,Kenan's Wife,female,,,,325,estimated,,,,Seth,Genesis 5,9,,KJV,no,
-mahalalel_wife,person,4,Mahalalel's Wife,female,,,,395,estimated,,,,Seth,Genesis 5,12,,KJV,no,
-jared_wife,person,5,Jared's Wife,female,,,,460,estimated,,,,Seth,Genesis 5,15,,KJV,no,
-methuselah_wife,person,7,Methuselah's Wife,female,,,,687,estimated,,,,Seth,Genesis 5,21,,KJV,no,
+enos_wife,person,2,Enos's Wife,female,,,,,235,estimated,,,Seth,Genesis 5,6,,KJV,no,
+kenan_wife,person,3,Kenan's Wife,female,,,,,325,estimated,,,Seth,Genesis 5,9,,KJV,no,
+mahalalel_wife,person,4,Mahalalel's Wife,female,,,,,395,estimated,,,Seth,Genesis 5,12,,KJV,no,
+jared_wife,person,5,Jared's Wife,female,,,,,460,estimated,,,Seth,Genesis 5,15,,KJV,no,
+methuselah_wife,person,7,Methuselah's Wife,female,,,,,687,estimated,,,Seth,Genesis 5,21,,KJV,no,
 flood,marker,9,The Flood,event,,,,1656,explicit,1656,,,Adam,Genesis 7,6,"And Noah was six hundred years old when the flood of waters was upon the earth.",KJV,yes,Global judgment event
 arphaxad,person,11,Arphaxad,male,shem,Shem,,,1658,deduced,2096,438,Shem,Genesis 11,10,,KJV,yes,
 salah,person,12,Salah,male,arphaxad,Arphaxad,,,1693,deduced,2126,433,Shem,Genesis 11,12,,KJV,yes,
