@@ -35,4 +35,4 @@ abram,person,19,Abram,male,terah,Terah,,,1948,deduced,,,Abram,Genesis 11,26,,KJV
 sarah,person,19,Sarai,female,terah,Terah,,,1948,estimated,,,Abram,Genesis 11,29,,KJV,yes,Wife and half-sister
 lot,person,19,Lot,male,haran,Haran,,,1948,estimated,,,Abram,Genesis 11,27,,KJV,no,Nephew of Abram
 hagar,person,20,Hagar,female,,,,,1998,estimated,,,Abram,Genesis 16,1,,KJV,no,Egyptian maidservant
-ishmael,person,20,Ishmael,male,abram,Abram,hagar,Hagar,2034,explicit,,,Abram,Genesis 16,15–16,,KJV,yes,
+ishmael,person,20,Ishmael,male,abram,Abram,hagar,Hagar,2034,explicit,,,Abram,Genesis 16,15–16,,KJV,no,
