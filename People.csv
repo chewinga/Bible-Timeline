@@ -22,7 +22,7 @@ kenan_wife,person,3,Kenan's Wife,female,,,,325,estimated,,,,Seth,Genesis 5,9,,KJ
 mahalalel_wife,person,4,Mahalalel's Wife,female,,,,395,estimated,,,,Seth,Genesis 5,12,,KJV,no,
 jared_wife,person,5,Jared's Wife,female,,,,460,estimated,,,,Seth,Genesis 5,15,,KJV,no,
 methuselah_wife,person,7,Methuselah's Wife,female,,,,687,estimated,,,,Seth,Genesis 5,21,,KJV,no,
-flood,marker,9,The Flood,event,,,,1656,explicit,1656,,Adam,Genesis 7,6,"And Noah was six hundred years old when the flood of waters was upon the earth.",KJV,yes,Global judgment event
+flood,marker,9,The Flood,event,,,,1656,explicit,1656,,,Adam,Genesis 7,6,"And Noah was six hundred years old when the flood of waters was upon the earth.",KJV,yes,Global judgment event
 arphaxad,person,11,Arphaxad,male,shem,Shem,,,1658,deduced,2096,438,Shem,Genesis 11,10,,KJV,yes,
 salah,person,12,Salah,male,arphaxad,Arphaxad,,,1693,deduced,2126,433,Shem,Genesis 11,12,,KJV,yes,
 eber,person,13,Eber,male,salah,Salah,,,1723,deduced,2187,464,Shem,Genesis 11,14,,KJV,yes,
