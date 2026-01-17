@@ -2,16 +2,16 @@ person_id,entity_type,generation,name,gender,father_id,father_name,mother_id,mot
 adam,person,0,Adam,male,creation,Creation,,,0,explicit,930,930,Adam,Genesis 5,1–5,"And Adam lived an hundred and thirty years, and begat a son...",KJV,yes,Creation anchor
 eve,person,0,Eve,female,creation,Creation,,,0,estimated,,,,Genesis 3,20,"And Adam called his wife's name Eve...",KJV,yes,Birth year estimated as contemporaneous with Adam
 cain,person,1,Cain,male,adam,Adam,eve,Eve,5,estimated,,,Cain,Genesis 4,1,"And Adam knew Eve his wife; and she conceived, and bare Cain...",KJV,no,
-abel,person,1,Abel,male,adam,Adam,eve,Eve,7,estimated,,,Adam,Genesis 4,1,"",KJV,no,
+abel,person,1,Abel,male,adam,Adam,eve,Eve,7,estimated,,,Adam,Genesis 4,1,"And she again bare his brother Abel. And Abel was a keeper of sheep...",KJV,no,
 cains_wife,person,1,Cain's Wife,female,,,,,10,estimated,,,"Cain",Genesis 4,17,"And Cain knew his wife; and she conceived...",KJV,no,Unnamed wife; birth year estimated
 enoch_cain,person,2,Enoch,male,cain,Cain,cains_wife,Cain's Wife,160,estimated,,,"Cain",Genesis 4,17,"And Cain knew his wife; and she conceived and bare Enoch...",KJV,no,
 seth,person,1,Seth,male,adam,Adam,eve,Eve,130,deduced,1042,912,Seth,Genesis 5,3,"And Adam lived an hundred and thirty years, and begat a son...",KJV,yes,
 enos,person,2,Enos,male,seth,Seth,,,235,deduced,1140,905,Seth,Genesis 5,6,"And Seth lived an hundred and five years, and begat Enos...",KJV,yes,
 kenan,person,3,Kenan,male,enos,Enos,,,325,deduced,1235,910,Seth,Genesis 5,9,"And Enos lived ninety years, and begat Cainan:",KJV,yes,
-mahalalel,person,4,Mahalalel,male,kenan,Kenan,,,395,deduced,1290,895,Seth,Genesis 5,12,,KJV,yes,
-jared,person,5,Jared,male,mahalalel,Mahalalel,,,460,deduced,1422,962,Seth,Genesis 5,15,,KJV,yes,
-enoch,person,6,Enoch,male,jared,Jared,,,622,deduced,987,365,Seth,Genesis 5,18,,KJV,yes,Translated; did not die
-methuselah,person,7,Methuselah,male,enoch,Enoch,,,687,deduced,1656,969,Seth,Genesis 5,21,,KJV,yes,
+mahalalel,person,4,Mahalalel,male,kenan,Kenan,,,395,deduced,1290,895,Seth,Genesis 5,12,"And Cainan lived seventy years and begat Mahalaleel:",KJV,yes,
+jared,person,5,Jared,male,mahalalel,Mahalalel,,,460,deduced,1422,962,Seth,Genesis 5,15,"And Mahalaleel lived sixty and five years, and begat Jared:",KJV,yes,
+enoch,person,6,Enoch,male,jared,Jared,,,622,deduced,987,365,Seth,Genesis 5,18,"And Jared lived an hundred sixty and two years, and he begat Enoch:",KJV,yes,Translated; did not die
+methuselah,person,7,Methuselah,male,enoch,Enoch,,,687,deduced,1656,969,Seth,Genesis 5,21,"And Enoch lived sixty and five years, and begat Methuselah:",KJV,yes,
 lamech_seth,person,8,Lamech,male,methuselah,Methuselah,,,874,deduced,1651,777,Seth,Genesis 5,25,,KJV,yes,
 noah,person,9,Noah,male,lamech_seth,Lamech,,,1056,deduced,2006,950,Seth,Genesis 5,28,,KJV,yes,
 naamah,person,2,Naamah,female,cain,Cain,,,145,estimated,,,Seth,Genesis 4,22,And the sister of Tubalcain was Naamah.,KJV,no,Identity debated; included for completeness
