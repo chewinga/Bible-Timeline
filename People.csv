@@ -44,6 +44,7 @@ isaac,person,20,Isaac,male,abram,Abram,sarai,Sarai,2048,explicit,2228,,isaac,Gen
 rebekah,person,20,Rebekah,female,bethuel,Bethuel,,,2048,estimated,,,isaac,Genesis 24,15,"And, behold, Rebekah came out, who was born to Bethuel.",KJV,yes,Birth year estimated near Isaac
 esau,person,21,Esau,male,isaac,Isaac,rebekah,Rebekah,2108,explicit,,,isaac,Genesis 25,25,"And the first came out red, all over like an hairy garment; and they called his name Esau.",KJV,no,
 jacob,person,21,Jacob,male,isaac,Isaac,rebekah,Rebekah,2108,explicit,,,jacob,Genesis 25,26,"And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob.",KJV,yes,
+laban,person,20,,Laban,male,,,,,2028,estimated,,,,,,,,,
 leah,person,21,Leah,female,laban,Laban,,,2128,estimated,,,jacob,Genesis 29,16,"And Laban had two daughters: the name of the elder was Leah.",KJV,yes,Birth year estimated
 rachel,person,21,Rachel,female,laban,Laban,,,2132,estimated,,,jacob,Genesis 29,16,"And the name of the younger was Rachel.",KJV,no,Birth year estimated
 reuben,person,22,Reuben,male,jacob,Jacob,leah,Leah,2146,estimated,,,jacob,Genesis 29,32,"And Leah conceived, and bare a son, and she called his name Reuben.",KJV,no,Birth year estimated
