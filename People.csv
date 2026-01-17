@@ -32,8 +32,6 @@ reu,person,15,Reu,male,peleg,Peleg,,,1787,deduced,2026,239,Shem,Genesis 11,18,,K
 serug,person,16,Serug,male,reu,Reu,,,1819,deduced,2049,230,Shem,Genesis 11,20,,KJV,yes,
 nahor_brother,person,18,Nahor,male,terah,Terah,,,1878,deduced,1997,,shem,Genesis 11,26–29,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,Brother of Abram
 milcah,person,18,Milcah,female,haran,Haran,,,1880,estimated,,,shem,Genesis 11,29,"And the name of Nahor's wife, Milcah, the daughter of Haran.",KJV,no,Birth year estimated near spouse
-nahor_brother,person,18,Nahor,male,terah,Terah,,,1878,deduced,1997,,shem,Genesis 11,26–29,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,Brother of Abram
-milcah,person,18,Milcah,female,haran,Haran,,,1880,estimated,,,shem,Genesis 11,29,"And the name of Nahor's wife, Milcah, the daughter of Haran.",KJV,no,Birth year estimated near spouse
 haran,person,18,Haran,male,terah,Terah,,,1870,estimated,1948,,shem,Genesis 11,27,"And Haran died before his father Terah in the land of his nativity.",KJV,no,Birth year estimated; died young
 lot,person,19,Lot,male,haran,Haran,,,1948,estimated,,,abram,Genesis 11,27,"And Haran begat Lot.",KJV,no,
 abram,person,19,Abram,male,terah,Terah,,,1948,deduced,2123,,abram,Genesis 11,26,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,
