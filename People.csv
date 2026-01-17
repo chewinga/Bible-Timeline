@@ -15,8 +15,8 @@ lamech_seth,person,8,Lamech,male,methuselah,Methuselah,,,874,deduced,1651,777,Se
 noah,person,9,Noah,male,lamech_seth,Lamech,,,1056,deduced,2006,950,Seth,Genesis 5,28,,KJV,yes,
 naamah,person,9,Naamah,female,noah,Noah,,,1056,estimated,,,Seth,Genesis 4,22,And the sister of Tubalcain was Naamah.,KJV,no,Identity debated; included for completeness
 shem,person,10,Shem,male,noah,Noah,,,1558,deduced,2158,600,Shem,Genesis 11,10,"These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:",KJV,yes,
-ham,person,10,Ham,male,noah,Noah,,,,estimated,,,Ham,Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
-japheth,person,10,Japheth,male,noah,Noah,,,,estimated,,,Japheth,Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
+ham,person,10,Ham,male,noah,Noah,,,1563,estimated,,,Ham,Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
+japheth,person,10,Japheth,male,noah,Noah,,,1553,estimated,,,Japheth,Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
 enos_wife,person,2,Enos's Wife,female,,,,,235,estimated,,,Seth,Genesis 5,6,,KJV,no,
 kenan_wife,person,3,Kenan's Wife,female,,,,,325,estimated,,,Seth,Genesis 5,9,,KJV,no,
 mahalalel_wife,person,4,Mahalalel's Wife,female,,,,,395,estimated,,,Seth,Genesis 5,12,,KJV,no,
