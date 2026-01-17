@@ -22,9 +22,7 @@ kenan_wife,person,3,Kenan's Wife,female,,,,325,estimated,,,,Seth,Genesis 5,9,,KJ
 mahalalel_wife,person,4,Mahalalel's Wife,female,,,,395,estimated,,,,Seth,Genesis 5,12,,KJV,no,
 jared_wife,person,5,Jared's Wife,female,,,,460,estimated,,,,Seth,Genesis 5,15,,KJV,no,
 methuselah_wife,person,7,Methuselah's Wife,female,,,,687,estimated,,,,Seth,Genesis 5,21,,KJV,no,
-
 flood,marker,9,The Flood,event,,,,1656,explicit,1656,,Adam,Genesis 7,6,"And Noah was six hundred years old when the flood of waters was upon the earth.",KJV,yes,Global judgment event
-
 arphaxad,person,11,Arphaxad,male,shem,Shem,,,1658,deduced,2096,438,Shem,Genesis 11,10,,KJV,yes,
 salah,person,12,Salah,male,arphaxad,Arphaxad,,,1693,deduced,2126,433,Shem,Genesis 11,12,,KJV,yes,
 eber,person,13,Eber,male,salah,Salah,,,1723,deduced,2187,464,Shem,Genesis 11,14,,KJV,yes,
@@ -33,10 +31,8 @@ reu,person,15,Reu,male,peleg,Peleg,,,1787,deduced,2026,239,Shem,Genesis 11,18,,K
 serug,person,16,Serug,male,reu,Reu,,,1819,deduced,2049,230,Shem,Genesis 11,20,,KJV,yes,
 nahor,person,17,Nahor,male,serug,Serug,,,1849,deduced,1997,148,Shem,Genesis 11,22,,KJV,yes,
 terah,person,18,Terah,male,nahor,Nahor,,,1878,deduced,2083,205,Shem,Genesis 11,24,,KJV,yes,
-
 abram,person,19,Abram,male,terah,Terah,,,1948,deduced,,,"Abram",Genesis 11,26,,KJV,yes,
 sarah,person,19,Sarai,female,terah,Terah,,,1948,estimated,,,"Abram",Genesis 11,29,,KJV,yes,Wife and half-sister
 lot,person,19,Lot,male,haran,Haran,,,1948,estimated,,,"Abram",Genesis 11,27,,KJV,no,Nephew of Abram
-
 hagar,person,20,Hagar,female,,,,,1998,estimated,,,"Abram",Genesis 16,1,,KJV,no,Egyptian maidservant
 ishmael,person,20,Ishmael,male,abram,Abram,hagar,Hagar,2034,explicit,,,"Abram",Genesis 16,15–16,,KJV,yes,
