@@ -6,7 +6,7 @@ cains_wife,person,1,Cain's Wife,female,,,,,130,estimated,,,"Cain",Genesis 4,17,"
 enoch_cain,person,2,Enoch,male,cain,Cain,cains_wife,Cain's Wife,160,estimated,,,"Cain",Genesis 4,17,"And Cain knew his wife; and she conceived and bare Enoch...",KJV,no,
 seth,person,1,Seth,male,adam,Adam,eve,Eve,130,deduced,1042,912,Seth,Genesis 5,3,"And Adam lived an hundred and thirty years, and begat a son...",KJV,yes,
 enos,person,2,Enos,male,seth,Seth,,,235,deduced,1140,905,Seth,Genesis 5,6,"And Seth lived an hundred and five years, and begat Enos...",KJV,yes,
-kenan,person,3,Kenan,male,enos,Enos,,,325,deduced,1235,910,Seth,Genesis 5,9,,KJV,yes,
+kenan,person,3,Kenan,male,enos,Enos,,,325,deduced,1235,910,Seth,Genesis 5,9,"And Enos lived ninety years, and begat Cainan:",KJV,yes,
 mahalalel,person,4,Mahalalel,male,kenan,Kenan,,,395,deduced,1290,895,Seth,Genesis 5,12,,KJV,yes,
 jared,person,5,Jared,male,mahalalel,Mahalalel,,,460,deduced,1422,962,Seth,Genesis 5,15,,KJV,yes,
 enoch,person,6,Enoch,male,jared,Jared,,,622,deduced,987,365,Seth,Genesis 5,18,,KJV,yes,Translated; did not die
@@ -14,7 +14,7 @@ methuselah,person,7,Methuselah,male,enoch,Enoch,,,687,deduced,1656,969,Seth,Gene
 lamech_seth,person,8,Lamech,male,methuselah,Methuselah,,,874,deduced,1651,777,Seth,Genesis 5,25,,KJV,yes,
 noah,person,9,Noah,male,lamech_seth,Lamech,,,1056,deduced,2006,950,Seth,Genesis 5,28,,KJV,yes,
 naamah,person,9,Naamah,female,noah,Noah,,,1056,estimated,,,"Seth",Genesis 4,22,"And the sister of Tubalcain was Naamah.",KJV,no,Identity debated; included for completeness
-shem,person,10,Shem,male,noah,Noah,,,1558,deduced,2158,600,Shem,Genesis 11,10,,KJV,yes,
+shem,person,10,Shem,male,noah,Noah,,,1558,deduced,2158,600,Shem,Genesis 11,10,"These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:",KJV,yes,
 ham,person,10,Ham,male,noah,Noah,,,,estimated,,,"Ham",Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
 japheth,person,10,Japheth,male,noah,Noah,,,,estimated,,,"Japheth",Genesis 11, 5–10,,KJV,no,Birth year estimated relative to Shem
 enos_wife,person,2,Enos's Wife,female,,,,,235,estimated,,,Seth,Genesis 5,6,,KJV,no,
