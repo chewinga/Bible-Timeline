@@ -33,31 +33,31 @@ reu,person,15,Reu,male,peleg,Peleg,,,1787,deduced,2026,239,Shem,Genesis 11,18,,K
 serug,person,16,Serug,male,reu,Reu,,,1819,deduced,2049,230,Shem,Genesis 11,20,,KJV,yes,
 nahor,person,17,Nahor,male,serug,Serug,,,1849,deduced,1997,148,Shem,Genesis 11,22,,KJV,yes,
 terah,person,18,Terah,male,nahor,Nahor,,,1878,deduced,2083,205,Shem,Genesis 11,24,"And Nahor lived nine and twenty years, and begat Terah:",KJV,yes,
-nahor_brother,person,19,Nahor,male,terah,Terah,,,1878,deduced,1997,,shem,Genesis 11,26–29,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,Brother of Abram
-milcah,person,18,Milcah,female,haran,Haran,,,1880,estimated,,,shem,Genesis 11,29,"And the name of Nahor's wife, Milcah, the daughter of Haran.",KJV,no,Birth year estimated near spouse
-haran,person,19,Haran,male,terah,Terah,,,1870,estimated,1948,,shem,Genesis 11,27,"And Haran died before his father Terah in the land of his nativity.",KJV,no,Birth year estimated; died young
-lot,person,20,Lot,male,haran,Haran,,,1948,estimated,,,abram,Genesis 11,27,"And Haran begat Lot.",KJV,no,
-abram,person,19,Abram,male,terah,Terah,,,1948,deduced,2123,,abram,Genesis 11,26,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,
-sarai,person,19,Sarai,female,terah,Terah,,,1948,estimated,,,abram,Genesis 11,29,"And Abram and Nahor took them wives: the name of Abram's wife was Sarai.",KJV,yes,Half-sister and wife; birth year estimated
-hagar,person,19,Hagar,female,,,,,1998,estimated,,,abram,Genesis 16,1,"Now Sarai Abram's wife had borne him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",KJV,no,Birth year estimated
-ishmael,person,20,Ishmael,male,abram,Abram,hagar,Hagar,2034,explicit,,,ishmael,Genesis 16,15–16,"And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.",KJV,yes,
-isaac,person,20,Isaac,male,abram,Abram,sarai,Sarai,2048,explicit,2228,,isaac,Genesis 21,3,"And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",KJV,yes,
+nahor_brother,person,19,Nahor,male,terah,Terah,,,1878,deduced,1997,,Shem,Genesis 11,26–29,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,Brother of Abram
+milcah,person,18,Milcah,female,haran,Haran,,,1880,estimated,,,Shem,Genesis 11,29,"And the name of Nahor's wife, Milcah, the daughter of Haran.",KJV,no,Birth year estimated near spouse
+haran,person,19,Haran,male,terah,Terah,,,1870,estimated,1948,,Shem,Genesis 11,27,"And Haran died before his father Terah in the land of his nativity.",KJV,no,Birth year estimated; died young
+lot,person,20,Lot,male,haran,Haran,,,1948,estimated,,,Abram,Genesis 11,27,"And Haran begat Lot.",KJV,no,
+abram,person,19,Abram,male,terah,Terah,,,1948,deduced,2123,,Abram,Genesis 11,26,"And Terah lived seventy years, and begat Abram, Nahor, and Haran.",KJV,yes,
+sarai,person,19,Sarai,female,terah,Terah,,,1948,estimated,,,Abram,Genesis 11,29,"And Abram and Nahor took them wives: the name of Abram's wife was Sarai.",KJV,yes,Half-sister and wife; birth year estimated
+hagar,person,19,Hagar,female,,,,,1998,estimated,,,Abram,Genesis 16,1,"Now Sarai Abram's wife had borne him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",KJV,no,Birth year estimated
+ishmael,person,20,Ishmael,male,abram,Abram,hagar,Hagar,2034,explicit,,,Ishmael,Genesis 16,15–16,"And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.",KJV,yes,
+isaac,person,20,Isaac,male,abram,Abram,sarai,Sarai,2048,explicit,2228,,Isaac,Genesis 21,3,"And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",KJV,yes,
 bethuel,person,19,Bethuel,male,,,,,1950,estimated,,,,,,,,,Birth year estimated
-rebekah,person,20,Rebekah,female,bethuel,Bethuel,,,2048,estimated,,,isaac,Genesis 24,15,"And, behold, Rebekah came out, who was born to Bethuel.",KJV,yes,Birth year estimated near Isaac
+rebekah,person,20,Rebekah,female,bethuel,Bethuel,,,2048,estimated,,,Isaac,Genesis 24,15,"And, behold, Rebekah came out, who was born to Bethuel.",KJV,yes,Birth year estimated near Isaac
 esau,person,21,Esau,male,isaac,Isaac,rebekah,Rebekah,2108,explicit,,,isaac,Genesis 25,25,"And the first came out red, all over like an hairy garment; and they called his name Esau.",KJV,no,
-jacob,person,21,Jacob,male,isaac,Isaac,rebekah,Rebekah,2108,explicit,,,jacob,Genesis 25,26,"And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob.",KJV,yes,
+jacob,person,21,Jacob,male,isaac,Isaac,rebekah,Rebekah,2108,explicit,,,Jacob,Genesis 25,26,"And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob.",KJV,yes,
 laban,person,20,,Laban,male,,,,2028,estimated,,,,,,,,,
-leah,person,21,Leah,female,laban,Laban,,,2128,estimated,,,jacob,Genesis 29,16,"And Laban had two daughters: the name of the elder was Leah.",KJV,yes,Birth year estimated
-rachel,person,21,Rachel,female,laban,Laban,,,2132,estimated,,,jacob,Genesis 29,16,"And the name of the younger was Rachel.",KJV,no,Birth year estimated
-reuben,person,22,Reuben,male,jacob,Jacob,leah,Leah,2146,estimated,,,jacob,Genesis 29,32,"And Leah conceived, and bare a son, and she called his name Reuben.",KJV,no,Birth year estimated
-simeon,person,22,Simeon,male,jacob,Jacob,leah,Leah,2148,estimated,,,jacob,Genesis 29,33,"And she conceived again, and bare a son; and said, Because the LORD hath heard.",KJV,no,Birth year estimated
-levi,person,22,Levi,male,jacob,Jacob,leah,Leah,2150,estimated,,,jacob,Genesis 29,34,"And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me.",KJV,no,Birth year estimated
-judah,person,22,Judah,male,jacob,Jacob,leah,Leah,2152,estimated,,,jacob,Genesis 29,35,"And she conceived again, and bare a son: and she said, Now will I praise the LORD.",KJV,yes,Birth year estimated
-dan,person,22,Dan,male,jacob,Jacob,bilhah,Bilhah,2154,estimated,,,jacob,Genesis 30,6,"And Rachel said, God hath judged me, and hath also heard my voice.",KJV,no,Birth year estimated
-naphtali,person,22,Naphtali,male,jacob,Jacob,bilhah,Bilhah,2156,estimated,,,jacob,Genesis 30,8,"And Rachel said, With great wrestlings have I wrestled with my sister.",KJV,no,Birth year estimated
-gad,person,22,Gad,male,jacob,Jacob,zilpah,Zilpah,2158,estimated,,,jacob,Genesis 30,11,"And Leah said, A troop cometh: and she called his name Gad.",KJV,no,Birth year estimated
-asher,person,22,Asher,male,jacob,Jacob,zilpah,Zilpah,2160,estimated,,,jacob,Genesis 30,13,"And Leah said, Happy am I, for the daughters will call me blessed.",KJV,no,Birth year estimated
-issachar,person,22,Issachar,male,jacob,Jacob,leah,Leah,2162,estimated,,,jacob,Genesis 30,18,"And Leah said, God hath given me my hire.",KJV,no,Birth year estimated
-zebulun,person,22,Zebulun,male,jacob,Jacob,leah,Leah,2164,estimated,,,jacob,Genesis 30,20,"And Leah said, God hath endued me with a good dowry.",KJV,no,Birth year estimated
-joseph,person,22,Joseph,male,jacob,Jacob,rachel,Rachel,2166,estimated,,,jacob,Genesis 30,24,"And she called his name Joseph; and said, The LORD shall add to me another son.",KJV,no,Birth year estimated
-benjamin,person,22,Benjamin,male,jacob,Jacob,rachel,Rachel,2180,estimated,,,jacob,Genesis 35,18,"And it came to pass, as her soul was in departing, she called his name Ben-oni.",KJV,no,Born late in Jacob’s life; birth year estimated
+leah,person,21,Leah,female,laban,Laban,,,2128,estimated,,,Jacob,Genesis 29,16,"And Laban had two daughters: the name of the elder was Leah.",KJV,yes,Birth year estimated
+rachel,person,21,Rachel,female,laban,Laban,,,2132,estimated,,,Jacob,Genesis 29,16,"And the name of the younger was Rachel.",KJV,no,Birth year estimated
+reuben,person,22,Reuben,male,jacob,Jacob,leah,Leah,2146,estimated,,,Jacob,Genesis 29,32,"And Leah conceived, and bare a son, and she called his name Reuben.",KJV,no,Birth year estimated
+simeon,person,22,Simeon,male,jacob,Jacob,leah,Leah,2148,estimated,,,Jacob,Genesis 29,33,"And she conceived again, and bare a son; and said, Because the LORD hath heard.",KJV,no,Birth year estimated
+levi,person,22,Levi,male,jacob,Jacob,leah,Leah,2150,estimated,,,Jacob,Genesis 29,34,"And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me.",KJV,no,Birth year estimated
+judah,person,22,Judah,male,jacob,Jacob,leah,Leah,2152,estimated,,,Jacob,Genesis 29,35,"And she conceived again, and bare a son: and she said, Now will I praise the LORD.",KJV,yes,Birth year estimated
+dan,person,22,Dan,male,jacob,Jacob,bilhah,Bilhah,2154,estimated,,,Jacob,Genesis 30,6,"And Rachel said, God hath judged me, and hath also heard my voice.",KJV,no,Birth year estimated
+naphtali,person,22,Naphtali,male,jacob,Jacob,bilhah,Bilhah,2156,estimated,,,Jacob,Genesis 30,8,"And Rachel said, With great wrestlings have I wrestled with my sister.",KJV,no,Birth year estimated
+gad,person,22,Gad,male,jacob,Jacob,zilpah,Zilpah,2158,estimated,,,Jacob,Genesis 30,11,"And Leah said, A troop cometh: and she called his name Gad.",KJV,no,Birth year estimated
+asher,person,22,Asher,male,jacob,Jacob,zilpah,Zilpah,2160,estimated,,,Jacob,Genesis 30,13,"And Leah said, Happy am I, for the daughters will call me blessed.",KJV,no,Birth year estimated
+issachar,person,22,Issachar,male,jacob,Jacob,leah,Leah,2162,estimated,,,Jacob,Genesis 30,18,"And Leah said, God hath given me my hire.",KJV,no,Birth year estimated
+zebulun,person,22,Zebulun,male,jacob,Jacob,leah,Leah,2164,estimated,,,Jacob,Genesis 30,20,"And Leah said, God hath endued me with a good dowry.",KJV,no,Birth year estimated
+joseph,person,22,Joseph,male,jacob,Jacob,rachel,Rachel,2166,estimated,,,Jacob,Genesis 30,24,"And she called his name Joseph; and said, The LORD shall add to me another son.",KJV,no,Birth year estimated
+benjamin,person,22,Benjamin,male,jacob,Jacob,rachel,Rachel,2180,estimated,,,Jacob,Genesis 35,18,"And it came to pass, as her soul was in departing, she called his name Ben-oni.",KJV,no,Born late in Jacob’s life; birth year estimated
